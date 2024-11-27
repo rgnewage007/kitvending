@@ -70,7 +70,7 @@ const FichaTecnica = () => {
 
       {/* Sección destacada */}
       <div className=" bg-white border-b-2 border-gray-300 p-6 text-center">
-        <div className="flex "><iframe
+        <div className=" "><iframe
           src="https://www.youtube.com/embed/nIlMXeRPTC0"
           title="Video de YouTube"
           className="w-full max-w-4xl h-96 mx-auto rounded-lg"
