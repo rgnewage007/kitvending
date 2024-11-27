@@ -88,7 +88,7 @@ const FichaTecnica = () => {
           <div className="text-[#F7E16F] font-bold">BANCO: BBVA</div>
           <div className="font-light text-white">NO. DE CUENTA: 158 916 5248</div>
           <div className="font-light text-white">CLABE: 012 180 01589165248 9</div>
-          <div className="font-light text-white">RAZÓN SOCIAL: RAUL GONZALEZ MOSQUEDA</div>
+          <div className="font-light text-white">RAZÓN SOCIAL: RAUL GONZALEZ</div>
         </div>
       </div>
 
