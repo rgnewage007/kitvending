@@ -93,7 +93,7 @@ const FichaTecnica = () => {
       </div>
 
       {/* Título principal */}
-      <h1 className="text-center text-4xl font-bold my-6">Ficha Técnica #10</h1>
+      <h1 className="text-center text-4xl font-bold my-6 text-black">Ficha Técnica #10</h1>
 
       {/* Características Generales */}
       <div className="bg-white p-6 mx-4 rounded-lg shadow-lg">
