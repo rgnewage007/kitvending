@@ -69,12 +69,18 @@ const FichaTecnica = () => {
       </header>
 
       {/* Sección destacada */}
-      <div className="bg-white border-b-2 border-gray-300 p-6 text-center">
-        <iframe
+      <div className=" bg-white border-b-2 border-gray-300 p-6 text-center">
+        <div className="flex "><iframe
           src="https://www.youtube.com/embed/nIlMXeRPTC0"
           title="Video de YouTube"
           className="w-full max-w-4xl h-96 mx-auto rounded-lg"
         ></iframe>
+          <iframe
+            src="https://www.youtube.com/embed/oXFBJmgFJ7k"
+            title="Video de YouTube"
+            className="w-full max-w-4xl h-96 mx-auto rounded-lg"
+          ></iframe>
+        </div>
         <p className="mt-4 text-xl font-bold text-gray-800">
           Precio del Kit: $3,000 MXN (No incluye IVA)
         </p>
