@@ -10,7 +10,7 @@ const productos = [
   },
   {
     src: "placa.jpg",
-    description: "Placa modelo NodeMCU V3 LUA CP2102 ESP-12E: Placa con programa precargado.",
+    description: "Placa modelo ESP32: Placa con programa precargado.",
   },
   {
     src: "relevador.png",
@@ -70,9 +70,9 @@ const productos2 = [
     description: "Placa modelo NodeMCU V3 LUA CP2102 ESP-12E: Placa con programa precargado.",
   },
   {
-    src: "relevador.png",
+    src: "realy5v2.png",
     description:
-      "Relevador 5V: Relevador a los que se conectarán los solenoides (no incluidos). Nota: los solenoides comúnmente trabajan a 12 V y 24 V (existen de 127 V).",
+      "Relevador 5V ( dos uno de un canal y otro de dos): Relevador a los que se conectarán los solenoides (no incluidos). El de un canal se conecta a hopper para encendido. Nota: los solenoides comúnmente trabajan a 12 V y 24 V (existen de 127 V).",
   },
   {
     src: "monedero.png",
@@ -244,7 +244,7 @@ const FichaTecnica = () => {
         <h2 className="text-2xl font-bold text-blue-500 mb-4">Notas importantes:</h2>
         <ul className="list-disc pl-6 text-lg text-black">
           <li>La disponibilidad del producto se comunica a través de esta página.</li>
-          <li>El costo del kit es de $3,000 MXN (No incluye IVA).</li>
+         
           <li>Enviar pago a la cuenta.</li>
           <li>
             Enviar comprobante de pago al WhatsApp 55 23 27 68 06 o al correo
@@ -254,9 +254,9 @@ const FichaTecnica = () => {
           <li>Las instrucciones se proporcionan posterior al pago.</li>
           <li>
             El kit se entrega armado, pero algunos componentes pueden
-            desconectarse durante el transporte.
+            desconectarse durante el transporte.El instructivo incluye detalles de reconexión y operación.
           </li>
-          <li>El instructivo incluye detalles de reconexión y operación.</li>
+          
           <li>Para facturación, enviar su CSF.</li>
         </ul>
         <p className="mt-4 text-lg text-black">
