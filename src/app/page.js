@@ -18,6 +18,11 @@ const productos = [
       "Relevador de estado sólido 5V: Relevador a los que se conectarán los solenoides (no incluidos). Nota: los solenoides comúnmente trabajan a 12 V y 24 V.",
   },
   {
+    src: "hopper.png",
+    description:
+      "Hopper nuevo para entrega de cambio solo denominación de 1 peso",
+  },
+  {
     src: "monedero.png",
     description:
       "Monedero aceptador de monedas: Configurado para monedas de $10, $5, $2 y $1. Incluye tornillería para su colocación.",
