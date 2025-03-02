@@ -144,7 +144,7 @@ const FichaTecnica = () => {
           ></iframe>
 
           <iframe
-            src="https://www.youtube.com/embed/oXFBJmgFJ7k"
+            src="https://youtube.com/shorts/3XFkR7NU2ww"
             title="Video de YouTube con hopper y wifi"
             className="w-full max-w-4xl h-96 mx-auto rounded-lg"
           ></iframe>
