@@ -17,11 +17,7 @@ const productos = [
     description:
       "Relevador de estado sólido 5V: Relevador a los que se conectarán los solenoides (no incluidos). Nota: los solenoides comúnmente trabajan a 12 V y 24 V.",
   },
-  {
-    src: "hopper.png",
-    description:
-      "Hopper nuevo para entrega de cambio solo denominación de 1 peso",
-  },
+  
   {
     src: "monedero.png",
     description:
@@ -78,6 +74,10 @@ const productos2 = [
     src: "realy5v2.png",
     description:
       "Relevador 5V ( dos uno de un canal y otro de dos): Relevador a los que se conectarán los solenoides (no incluidos). El de un canal se conecta a hopper para encendido. Nota: los solenoides comúnmente trabajan a 12 V y 24 V (existen de 127 V).",
+  },{
+    src: "hopper.png",
+    description:
+      "Hopper nuevo para entrega de cambio solo denominación de 1 peso",
   },
   {
     src: "monedero.png",
