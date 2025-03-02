@@ -126,8 +126,7 @@ const FichaTecnica = () => {
       </header>
       <header>
         <div className="text-lime-500 text-center text-2xl font-bold animate-pulse">
-          UNIDADES DISPONIBLES: 1
-        </div>
+          UNIDADES DISPONIBLES: 0 de ficha 10 y 1 de ficha 11        </div>
       </header>
 
       {/* Sección destacada */}
