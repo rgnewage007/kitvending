@@ -150,10 +150,10 @@ const FichaTecnica = () => {
 
         </div>
         <p className="mt-4 text-xl font-bold text-gray-800">
-          Precio del Kit #11: $4,500 MXN (No incluye IVA)
+          Precio del Kit #11: Preguntar vía WhatsApp
         </p>
         <p className="mt-4 text-xl font-bold text-gray-800">
-          Precio del Kit #10: $3,000 MXN (No incluye IVA)
+          Precio del Kit #10: Preguntar vía WhatsApp
         </p>
         <div className="m-2 flex-1 text-xl mt-2 rounded-xl border border-gray-500/25 bg-gray-900 dark:bg-gray-900 p-10 w-full">
           <div className="text-[#F7E16F] font-bold">BANCO: BBVA</div>
